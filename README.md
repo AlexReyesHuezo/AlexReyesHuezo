@@ -2,15 +2,15 @@
 
 <!--
 **AlexReyesHuezo/AlexReyesHuezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+I’m Alex, a Web developer based in El Salvador, who is passionate about web A11y.
+
+How rewarding it is to get the Web right! That's why I'm constantly learning about open web standards to achieve semantic and consistent masterpieces.  I’m looking to collaborate in areas like Design Systems, Product Design, Developer Experience, e-Commerce, Cryptography, among others.
+
+- 💬 Ask me about HTML, CSS, WCAG & JavaScript.
+- 👯 I’m currently a contributor for MDN Web Docs.
+
+
+- ⚡ Fun fact: I enjoy doing permaculture and I like to read and study math and physics.
+
