@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Alex, **web developer** from El Salvador, I like to delve into _web accessibility_ and _web security_ in my creations. My focus on these crucial aspects ensures robust and integral web solutions. I strive to deliver innovative and efficient web applications.
+I'm Alex, **software developer** from El Salvador, I like to delve into _best practices_ and _security_ in my creations. My focus on these crucial aspects ensures robust and integral solutions. I strive to deliver innovative and efficient applications.
 
 I am guided by these principles: _integrity_, _respect_, _collaboration_, _never stop learning_ and _not giving up_.
 
@@ -33,6 +33,8 @@ I am guided by these principles: _integrity_, _respect_, _collaboration_, _never
           <li><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></li>
           <li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></li>
           <li><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></li>
+          <li><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"</li>
+          <li><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"></li>
           <li><img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white" alt="REST API"></li>
         </ul>
       </td>
