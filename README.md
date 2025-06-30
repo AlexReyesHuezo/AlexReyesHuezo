@@ -11,6 +11,7 @@ I am guided by these principles: _integrity_, _respect_, _collaboration_, _never
     <tr>
       <th>Frontend</th>
       <th>Backend</th>
+      <th>AI</th>
     </tr>
   </thead>
   <tbody>
@@ -31,11 +32,23 @@ I am guided by these principles: _integrity_, _respect_, _collaboration_, _never
         <ul>
           <li><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></li>
           <li><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></li>
-          <li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></li>
           <li><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></li>
           <li><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"</li>
           <li><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"></li>
           <li><img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white" alt="REST API"></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"></li>
+          <li><img src="https://img.shields.io/badge/MCP-green" alt="MCP"></li>
+          <li><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face"</li>
+          <li><img src="https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff" alt="Firebase Studio"></li>
+          <li><img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" alt="GitHub Copilot"></li>
+          <li><img src="https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff" alt="V0"></li>
+          <li><img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT"></li>
+          <li><img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude"></li>
+          <li><img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Gemini"></li>
         </ul>
       </td>
     </tr>
